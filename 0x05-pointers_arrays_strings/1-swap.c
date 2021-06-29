@@ -1,7 +1,7 @@
 #include "holberton.h"
 
 /**
- * int *a, int *b - swap the values ​​of a and b
+ * swap_int - function that swaps the values of two integers.
  * @a: The pointer to an int.
  * @b: The pointer to an int.
  */
