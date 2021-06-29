@@ -10,6 +10,7 @@ void rev_string(char *s)
 	char tmp;
 
 	while (s[j++])
+		_putchar(s[i]);
 		i++;
 
 	for (j = i - 1; j >= i / 2; j--)
